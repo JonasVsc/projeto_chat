@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "506701233130",
+    "project_id": "projeto-curso-ia",
+    "storage_bucket": "projeto-curso-ia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506701233130:android:64ae3bd76a4427507c5093",
+        "android_client_info": {
+          "package_name": "com.example.projeto_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDeEENcYnLNhyB_xDBo8YPeJqBVriRV_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
